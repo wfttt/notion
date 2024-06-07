@@ -17,9 +17,9 @@ export default siteConfig({
   description: '私人分享，禁止外传', // 站点描述
 
   // 社交账号用户名 (可选)
-  twitter: 'transitive_bs', // Twitter 用户名
-  github: 'transitive-bullshit', // GitHub 用户名
-  linkedin: 'fisch2', // LinkedIn 用户名
+  //twitter: 'transitive_bs', // Twitter 用户名
+  //github: 'transitive-bullshit', // GitHub 用户名
+  //linkedin: 'fisch2', // LinkedIn 用户名
   // mastodon: '#', // 可选 mastodon 个人资料 URL，用于链接验证
   // newsletter: '#', // 可选的 newsletter URL
   // youtube: '#', // 可选的 YouTube 频道名称或 `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
