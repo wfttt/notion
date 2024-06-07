@@ -48,7 +48,7 @@ export default siteConfig({
   pageUrlOverrides: null, // 页面 URL 重写
 
   // 是否使用默认的 Notion 导航风格或自定义导航风格。要使用 `navigationLinks`，需将 `navigationStyle` 设置为 `custom`
-  navigationStyle: 'null' // 导航风格设置为默认
+  navigationStyle: 'default' // 导航风格设置为默认
   // navigationStyle: 'custom', // 导航风格设置为自定义（被注释）
   // navigationLinks: [ // 自定义导航链接（被注释）
   //   {
